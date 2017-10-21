@@ -1,1 +1,2 @@
-print ("HI ME")
+name = "MAYCHAN"
+print ("HELLO" + name)
