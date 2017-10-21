@@ -1,2 +1,2 @@
 name = "MAYCHAN"
-print ("HELLO" + name)
+print ("HELLO " + name)
